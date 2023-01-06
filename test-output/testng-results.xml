@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45008" started-at="2022-11-29T07:31:25Z" finished-at="2022-11-29T07:32:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45008" started-at="2022-11-29T07:31:25Z" finished-at="2022-11-29T07:32:10Z">
+      <class name="loginFeature.LocatorTest">
+        <test-method status="PASS" signature="locatorTest()[pri:0, instance:loginFeature.LocatorTest@1b0375b3]" name="locatorTest" duration-ms="44976" started-at="2022-11-28T23:31:25Z" finished-at="2022-11-28T23:32:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locatorTest -->
+      </class> <!-- loginFeature.LocatorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
